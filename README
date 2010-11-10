@@ -1,0 +1,8 @@
+New Features in PHP 5.3
+=======================
+
+PHP 5.3 was released in 2009 and is the newest version of PHP. Bradley Holt
+(http://bradley-holt.com/) will talk about the new features available including
+namespaces, closures (lamdba/anonymous functions), and late static binding.
+Learn how these new features might be useful to you and why the next major
+version of the big PHP frameworks will require PHP 5.3.
