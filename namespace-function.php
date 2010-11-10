@@ -2,7 +2,7 @@
 namespace btvphp\stuff;
 function sayHi()
 {
-    echo 'Hi';
+    return 'Hi';
 }
 echo \btvphp\stuff\sayHi(); // Hi
 echo sayHi(); // Hi
