@@ -4,5 +4,5 @@ namespace btvphp\stuff {
 }
 namespace btvphp\misc {
     use btvphp\stuff as stuff;
-    $b = new stuff\Foo();
+    $a = new stuff\Foo();
 }
