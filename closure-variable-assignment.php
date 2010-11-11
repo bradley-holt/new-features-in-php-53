@@ -1,6 +1,5 @@
 <?php
-$sayHi = function ()
-{
+$sayHi = function () {
     return 'Hi';
 };
 echo $sayHi(); // Hi
