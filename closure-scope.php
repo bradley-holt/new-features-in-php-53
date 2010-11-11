@@ -1,6 +1,6 @@
 <?php
 $sayWhat = 'Hi';
-$sayHi = function ($toWhom) use ($sayWhat) {
+$say = function ($toWhom) use ($sayWhat) {
     return $sayWhat . ', ' . $toWhom;
 };
-echo $sayHi('Bradley'); // Hi, Bradley
+echo $say('Bradley'); // Hi, Bradley
